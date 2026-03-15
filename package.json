@@ -1,0 +1,20 @@
+{
+  "name": "da91d7dd-a29d-4fcc-bd7c-8115de8a3a55",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "cypress": "^15.11.0",
+    "cypress-plugin-api": "^2.11.2"
+  }
+}
